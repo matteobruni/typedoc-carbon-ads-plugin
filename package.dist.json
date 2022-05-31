@@ -21,7 +21,7 @@
     "./**/*"
   ],
   "peerDependencies": {
-    "typedoc": "^0.22.15"
+    "typedoc": "^0.22.16"
   },
   "dependencies": {
     "typescript": "^4.7.2"
